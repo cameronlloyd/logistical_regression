@@ -21,6 +21,7 @@ Accuracy.cpp
   
 To Run:
 -----------
+- From ./logistical_regression run the following executables, with specified parameters, in the given order:
 ```
 > ./TrainLogReg trainingFeature.dat trainingLabel.dat ModelFile.txt 785 12665
 > ./TestLogReg ModelFile.txt testFeature.dat predLabel.dat 785
